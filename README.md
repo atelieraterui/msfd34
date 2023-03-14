@@ -20,7 +20,7 @@ This presentation has been presented in the following workshop:
 
 - The name of the event: Mathematical Software And Free Documents 34
 - Date: March 14, 2023
-- Venue Korakuen Campus, Chuo University
+- Venue:  Korakuen Campus, Chuo University, Tokyo, Japan
 - Web site: http://www.mathlibre.org/msfd/34-en.html
 
 And the contents of the presentation is as follows:
